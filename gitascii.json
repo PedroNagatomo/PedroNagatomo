@@ -15,7 +15,7 @@
         "animationType": "slide-up",
         "animationPreviewKey": 1
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1786547770995_0",
@@ -35,7 +35,7 @@
         "animationType": "slide-up",
         "animationPreviewKey": 1
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1786547770995_2",
@@ -55,7 +55,7 @@
         "animationType": "slide-up",
         "animationPreviewKey": 1
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1786547770995_3",
@@ -92,7 +92,7 @@
         "theme": "dark",
         "perLine": 5
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 5
     },
@@ -115,7 +115,7 @@
         "animationType": "slide-up",
         "animationPreviewKey": 1
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 6
     }
